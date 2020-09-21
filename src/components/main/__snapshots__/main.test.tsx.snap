@@ -1,0 +1,3219 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main should render Bills tab component 1`] = `
+initialize {
+  "0": Object {
+    "attribs": Object {},
+    "children": Array [
+      Object {
+        "attribs": Object {
+          "class": "MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary MuiPaper-elevation4",
+        },
+        "children": Array [
+          Object {
+            "attribs": Object {
+              "class": "MuiTabs-root",
+            },
+            "children": Array [
+              Object {
+                "attribs": Object {
+                  "class": "MuiTabs-scroller MuiTabs-fixed",
+                  "style": "overflow:hidden",
+                },
+                "children": Array [
+                  Object {
+                    "attribs": Object {
+                      "aria-label": "Transactions type selection",
+                      "class": "MuiTabs-flexContainer",
+                      "role": "tablist",
+                    },
+                    "children": Array [
+                      Object {
+                        "attribs": Object {
+                          "aria-controls": "tabpanel-bills",
+                          "aria-selected": "true",
+                          "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected",
+                          "id": "tab-bills",
+                          "role": "tab",
+                          "tabindex": "0",
+                          "type": "button",
+                        },
+                        "children": Array [
+                          Object {
+                            "attribs": Object {
+                              "class": "MuiTab-wrapper",
+                            },
+                            "children": Array [
+                              Object {
+                                "data": "Bills",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "text",
+                              },
+                            ],
+                            "name": "span",
+                            "namespace": "http://www.w3.org/1999/xhtml",
+                            "next": Object {
+                              "attribs": Object {
+                                "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                              },
+                              "children": Array [],
+                              "name": "span",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": [Circular],
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "class": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "class": undefined,
+                              },
+                            },
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "tag",
+                            "x-attribsNamespace": Object {
+                              "class": undefined,
+                            },
+                            "x-attribsPrefix": Object {
+                              "class": undefined,
+                            },
+                          },
+                          Object {
+                            "attribs": Object {
+                              "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                            },
+                            "children": Array [],
+                            "name": "span",
+                            "namespace": "http://www.w3.org/1999/xhtml",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": Object {
+                              "attribs": Object {
+                                "class": "MuiTab-wrapper",
+                              },
+                              "children": Array [
+                                Object {
+                                  "data": "Bills",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "text",
+                                },
+                              ],
+                              "name": "span",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": [Circular],
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "class": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "class": undefined,
+                              },
+                            },
+                            "type": "tag",
+                            "x-attribsNamespace": Object {
+                              "class": undefined,
+                            },
+                            "x-attribsPrefix": Object {
+                              "class": undefined,
+                            },
+                          },
+                        ],
+                        "name": "button",
+                        "namespace": "http://www.w3.org/1999/xhtml",
+                        "next": Object {
+                          "attribs": Object {
+                            "aria-controls": "tabpanel-pbills",
+                            "aria-selected": "false",
+                            "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit",
+                            "id": "tab-pbills",
+                            "role": "tab",
+                            "tabindex": "-1",
+                            "type": "button",
+                          },
+                          "children": Array [
+                            Object {
+                              "attribs": Object {
+                                "class": "MuiTab-wrapper",
+                              },
+                              "children": Array [
+                                Object {
+                                  "data": "Potential Bills",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "text",
+                                },
+                              ],
+                              "name": "span",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "class": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "class": undefined,
+                              },
+                            },
+                          ],
+                          "name": "button",
+                          "namespace": "http://www.w3.org/1999/xhtml",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": [Circular],
+                          "type": "tag",
+                          "x-attribsNamespace": Object {
+                            "aria-controls": undefined,
+                            "aria-selected": undefined,
+                            "class": undefined,
+                            "id": undefined,
+                            "role": undefined,
+                            "tabindex": undefined,
+                            "type": undefined,
+                          },
+                          "x-attribsPrefix": Object {
+                            "aria-controls": undefined,
+                            "aria-selected": undefined,
+                            "class": undefined,
+                            "id": undefined,
+                            "role": undefined,
+                            "tabindex": undefined,
+                            "type": undefined,
+                          },
+                        },
+                        "parent": [Circular],
+                        "prev": null,
+                        "type": "tag",
+                        "x-attribsNamespace": Object {
+                          "aria-controls": undefined,
+                          "aria-selected": undefined,
+                          "class": undefined,
+                          "id": undefined,
+                          "role": undefined,
+                          "tabindex": undefined,
+                          "type": undefined,
+                        },
+                        "x-attribsPrefix": Object {
+                          "aria-controls": undefined,
+                          "aria-selected": undefined,
+                          "class": undefined,
+                          "id": undefined,
+                          "role": undefined,
+                          "tabindex": undefined,
+                          "type": undefined,
+                        },
+                      },
+                      Object {
+                        "attribs": Object {
+                          "aria-controls": "tabpanel-pbills",
+                          "aria-selected": "false",
+                          "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit",
+                          "id": "tab-pbills",
+                          "role": "tab",
+                          "tabindex": "-1",
+                          "type": "button",
+                        },
+                        "children": Array [
+                          Object {
+                            "attribs": Object {
+                              "class": "MuiTab-wrapper",
+                            },
+                            "children": Array [
+                              Object {
+                                "data": "Potential Bills",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "text",
+                              },
+                            ],
+                            "name": "span",
+                            "namespace": "http://www.w3.org/1999/xhtml",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "tag",
+                            "x-attribsNamespace": Object {
+                              "class": undefined,
+                            },
+                            "x-attribsPrefix": Object {
+                              "class": undefined,
+                            },
+                          },
+                        ],
+                        "name": "button",
+                        "namespace": "http://www.w3.org/1999/xhtml",
+                        "next": null,
+                        "parent": [Circular],
+                        "prev": Object {
+                          "attribs": Object {
+                            "aria-controls": "tabpanel-bills",
+                            "aria-selected": "true",
+                            "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected",
+                            "id": "tab-bills",
+                            "role": "tab",
+                            "tabindex": "0",
+                            "type": "button",
+                          },
+                          "children": Array [
+                            Object {
+                              "attribs": Object {
+                                "class": "MuiTab-wrapper",
+                              },
+                              "children": Array [
+                                Object {
+                                  "data": "Bills",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "text",
+                                },
+                              ],
+                              "name": "span",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": Object {
+                                "attribs": Object {
+                                  "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                                },
+                                "children": Array [],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": [Circular],
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "class": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "class": undefined,
+                              },
+                            },
+                            Object {
+                              "attribs": Object {
+                                "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                              },
+                              "children": Array [],
+                              "name": "span",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": Object {
+                                "attribs": Object {
+                                  "class": "MuiTab-wrapper",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "data": "Bills",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "text",
+                                  },
+                                ],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": [Circular],
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "class": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "class": undefined,
+                              },
+                            },
+                          ],
+                          "name": "button",
+                          "namespace": "http://www.w3.org/1999/xhtml",
+                          "next": [Circular],
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "tag",
+                          "x-attribsNamespace": Object {
+                            "aria-controls": undefined,
+                            "aria-selected": undefined,
+                            "class": undefined,
+                            "id": undefined,
+                            "role": undefined,
+                            "tabindex": undefined,
+                            "type": undefined,
+                          },
+                          "x-attribsPrefix": Object {
+                            "aria-controls": undefined,
+                            "aria-selected": undefined,
+                            "class": undefined,
+                            "id": undefined,
+                            "role": undefined,
+                            "tabindex": undefined,
+                            "type": undefined,
+                          },
+                        },
+                        "type": "tag",
+                        "x-attribsNamespace": Object {
+                          "aria-controls": undefined,
+                          "aria-selected": undefined,
+                          "class": undefined,
+                          "id": undefined,
+                          "role": undefined,
+                          "tabindex": undefined,
+                          "type": undefined,
+                        },
+                        "x-attribsPrefix": Object {
+                          "aria-controls": undefined,
+                          "aria-selected": undefined,
+                          "class": undefined,
+                          "id": undefined,
+                          "role": undefined,
+                          "tabindex": undefined,
+                          "type": undefined,
+                        },
+                      },
+                    ],
+                    "name": "div",
+                    "namespace": "http://www.w3.org/1999/xhtml",
+                    "next": null,
+                    "parent": [Circular],
+                    "prev": null,
+                    "type": "tag",
+                    "x-attribsNamespace": Object {
+                      "aria-label": undefined,
+                      "class": undefined,
+                      "role": undefined,
+                    },
+                    "x-attribsPrefix": Object {
+                      "aria-label": undefined,
+                      "class": undefined,
+                      "role": undefined,
+                    },
+                  },
+                ],
+                "name": "div",
+                "namespace": "http://www.w3.org/1999/xhtml",
+                "next": null,
+                "parent": [Circular],
+                "prev": null,
+                "type": "tag",
+                "x-attribsNamespace": Object {
+                  "class": undefined,
+                  "style": undefined,
+                },
+                "x-attribsPrefix": Object {
+                  "class": undefined,
+                  "style": undefined,
+                },
+              },
+            ],
+            "name": "div",
+            "namespace": "http://www.w3.org/1999/xhtml",
+            "next": null,
+            "parent": [Circular],
+            "prev": null,
+            "type": "tag",
+            "x-attribsNamespace": Object {
+              "class": undefined,
+            },
+            "x-attribsPrefix": Object {
+              "class": undefined,
+            },
+          },
+        ],
+        "name": "header",
+        "namespace": "http://www.w3.org/1999/xhtml",
+        "next": Object {
+          "attribs": Object {
+            "aria-labelledby": "tab-0",
+            "id": "tabpanel-0",
+            "role": "tabpanel",
+          },
+          "children": Array [
+            Object {
+              "attribs": Object {
+                "class": "MuiBox-root MuiBox-root-6",
+              },
+              "children": Array [],
+              "name": "div",
+              "namespace": "http://www.w3.org/1999/xhtml",
+              "next": null,
+              "parent": [Circular],
+              "prev": null,
+              "type": "tag",
+              "x-attribsNamespace": Object {
+                "class": undefined,
+              },
+              "x-attribsPrefix": Object {
+                "class": undefined,
+              },
+            },
+          ],
+          "name": "div",
+          "namespace": "http://www.w3.org/1999/xhtml",
+          "next": Object {
+            "attribs": Object {
+              "aria-labelledby": "tab-1",
+              "hidden": "",
+              "id": "tabpanel-1",
+              "role": "tabpanel",
+            },
+            "children": Array [],
+            "name": "div",
+            "namespace": "http://www.w3.org/1999/xhtml",
+            "next": null,
+            "parent": [Circular],
+            "prev": [Circular],
+            "type": "tag",
+            "x-attribsNamespace": Object {
+              "aria-labelledby": undefined,
+              "hidden": undefined,
+              "id": undefined,
+              "role": undefined,
+            },
+            "x-attribsPrefix": Object {
+              "aria-labelledby": undefined,
+              "hidden": undefined,
+              "id": undefined,
+              "role": undefined,
+            },
+          },
+          "parent": [Circular],
+          "prev": [Circular],
+          "type": "tag",
+          "x-attribsNamespace": Object {
+            "aria-labelledby": undefined,
+            "id": undefined,
+            "role": undefined,
+          },
+          "x-attribsPrefix": Object {
+            "aria-labelledby": undefined,
+            "id": undefined,
+            "role": undefined,
+          },
+        },
+        "parent": [Circular],
+        "prev": null,
+        "type": "tag",
+        "x-attribsNamespace": Object {
+          "class": undefined,
+        },
+        "x-attribsPrefix": Object {
+          "class": undefined,
+        },
+      },
+      Object {
+        "attribs": Object {
+          "aria-labelledby": "tab-0",
+          "id": "tabpanel-0",
+          "role": "tabpanel",
+        },
+        "children": Array [
+          Object {
+            "attribs": Object {
+              "class": "MuiBox-root MuiBox-root-6",
+            },
+            "children": Array [],
+            "name": "div",
+            "namespace": "http://www.w3.org/1999/xhtml",
+            "next": null,
+            "parent": [Circular],
+            "prev": null,
+            "type": "tag",
+            "x-attribsNamespace": Object {
+              "class": undefined,
+            },
+            "x-attribsPrefix": Object {
+              "class": undefined,
+            },
+          },
+        ],
+        "name": "div",
+        "namespace": "http://www.w3.org/1999/xhtml",
+        "next": Object {
+          "attribs": Object {
+            "aria-labelledby": "tab-1",
+            "hidden": "",
+            "id": "tabpanel-1",
+            "role": "tabpanel",
+          },
+          "children": Array [],
+          "name": "div",
+          "namespace": "http://www.w3.org/1999/xhtml",
+          "next": null,
+          "parent": [Circular],
+          "prev": [Circular],
+          "type": "tag",
+          "x-attribsNamespace": Object {
+            "aria-labelledby": undefined,
+            "hidden": undefined,
+            "id": undefined,
+            "role": undefined,
+          },
+          "x-attribsPrefix": Object {
+            "aria-labelledby": undefined,
+            "hidden": undefined,
+            "id": undefined,
+            "role": undefined,
+          },
+        },
+        "parent": [Circular],
+        "prev": Object {
+          "attribs": Object {
+            "class": "MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary MuiPaper-elevation4",
+          },
+          "children": Array [
+            Object {
+              "attribs": Object {
+                "class": "MuiTabs-root",
+              },
+              "children": Array [
+                Object {
+                  "attribs": Object {
+                    "class": "MuiTabs-scroller MuiTabs-fixed",
+                    "style": "overflow:hidden",
+                  },
+                  "children": Array [
+                    Object {
+                      "attribs": Object {
+                        "aria-label": "Transactions type selection",
+                        "class": "MuiTabs-flexContainer",
+                        "role": "tablist",
+                      },
+                      "children": Array [
+                        Object {
+                          "attribs": Object {
+                            "aria-controls": "tabpanel-bills",
+                            "aria-selected": "true",
+                            "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected",
+                            "id": "tab-bills",
+                            "role": "tab",
+                            "tabindex": "0",
+                            "type": "button",
+                          },
+                          "children": Array [
+                            Object {
+                              "attribs": Object {
+                                "class": "MuiTab-wrapper",
+                              },
+                              "children": Array [
+                                Object {
+                                  "data": "Bills",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "text",
+                                },
+                              ],
+                              "name": "span",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": Object {
+                                "attribs": Object {
+                                  "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                                },
+                                "children": Array [],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": [Circular],
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "class": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "class": undefined,
+                              },
+                            },
+                            Object {
+                              "attribs": Object {
+                                "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                              },
+                              "children": Array [],
+                              "name": "span",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": Object {
+                                "attribs": Object {
+                                  "class": "MuiTab-wrapper",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "data": "Bills",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "text",
+                                  },
+                                ],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": [Circular],
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "class": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "class": undefined,
+                              },
+                            },
+                          ],
+                          "name": "button",
+                          "namespace": "http://www.w3.org/1999/xhtml",
+                          "next": Object {
+                            "attribs": Object {
+                              "aria-controls": "tabpanel-pbills",
+                              "aria-selected": "false",
+                              "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit",
+                              "id": "tab-pbills",
+                              "role": "tab",
+                              "tabindex": "-1",
+                              "type": "button",
+                            },
+                            "children": Array [
+                              Object {
+                                "attribs": Object {
+                                  "class": "MuiTab-wrapper",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "data": "Potential Bills",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "text",
+                                  },
+                                ],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                            ],
+                            "name": "button",
+                            "namespace": "http://www.w3.org/1999/xhtml",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": [Circular],
+                            "type": "tag",
+                            "x-attribsNamespace": Object {
+                              "aria-controls": undefined,
+                              "aria-selected": undefined,
+                              "class": undefined,
+                              "id": undefined,
+                              "role": undefined,
+                              "tabindex": undefined,
+                              "type": undefined,
+                            },
+                            "x-attribsPrefix": Object {
+                              "aria-controls": undefined,
+                              "aria-selected": undefined,
+                              "class": undefined,
+                              "id": undefined,
+                              "role": undefined,
+                              "tabindex": undefined,
+                              "type": undefined,
+                            },
+                          },
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "tag",
+                          "x-attribsNamespace": Object {
+                            "aria-controls": undefined,
+                            "aria-selected": undefined,
+                            "class": undefined,
+                            "id": undefined,
+                            "role": undefined,
+                            "tabindex": undefined,
+                            "type": undefined,
+                          },
+                          "x-attribsPrefix": Object {
+                            "aria-controls": undefined,
+                            "aria-selected": undefined,
+                            "class": undefined,
+                            "id": undefined,
+                            "role": undefined,
+                            "tabindex": undefined,
+                            "type": undefined,
+                          },
+                        },
+                        Object {
+                          "attribs": Object {
+                            "aria-controls": "tabpanel-pbills",
+                            "aria-selected": "false",
+                            "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit",
+                            "id": "tab-pbills",
+                            "role": "tab",
+                            "tabindex": "-1",
+                            "type": "button",
+                          },
+                          "children": Array [
+                            Object {
+                              "attribs": Object {
+                                "class": "MuiTab-wrapper",
+                              },
+                              "children": Array [
+                                Object {
+                                  "data": "Potential Bills",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "text",
+                                },
+                              ],
+                              "name": "span",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "class": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "class": undefined,
+                              },
+                            },
+                          ],
+                          "name": "button",
+                          "namespace": "http://www.w3.org/1999/xhtml",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": Object {
+                            "attribs": Object {
+                              "aria-controls": "tabpanel-bills",
+                              "aria-selected": "true",
+                              "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected",
+                              "id": "tab-bills",
+                              "role": "tab",
+                              "tabindex": "0",
+                              "type": "button",
+                            },
+                            "children": Array [
+                              Object {
+                                "attribs": Object {
+                                  "class": "MuiTab-wrapper",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "data": "Bills",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "text",
+                                  },
+                                ],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": Object {
+                                  "attribs": Object {
+                                    "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                                  },
+                                  "children": Array [],
+                                  "name": "span",
+                                  "namespace": "http://www.w3.org/1999/xhtml",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": [Circular],
+                                  "type": "tag",
+                                  "x-attribsNamespace": Object {
+                                    "class": undefined,
+                                  },
+                                  "x-attribsPrefix": Object {
+                                    "class": undefined,
+                                  },
+                                },
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                              Object {
+                                "attribs": Object {
+                                  "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                                },
+                                "children": Array [],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": Object {
+                                  "attribs": Object {
+                                    "class": "MuiTab-wrapper",
+                                  },
+                                  "children": Array [
+                                    Object {
+                                      "data": "Bills",
+                                      "next": null,
+                                      "parent": [Circular],
+                                      "prev": null,
+                                      "type": "text",
+                                    },
+                                  ],
+                                  "name": "span",
+                                  "namespace": "http://www.w3.org/1999/xhtml",
+                                  "next": [Circular],
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "tag",
+                                  "x-attribsNamespace": Object {
+                                    "class": undefined,
+                                  },
+                                  "x-attribsPrefix": Object {
+                                    "class": undefined,
+                                  },
+                                },
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                            ],
+                            "name": "button",
+                            "namespace": "http://www.w3.org/1999/xhtml",
+                            "next": [Circular],
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "tag",
+                            "x-attribsNamespace": Object {
+                              "aria-controls": undefined,
+                              "aria-selected": undefined,
+                              "class": undefined,
+                              "id": undefined,
+                              "role": undefined,
+                              "tabindex": undefined,
+                              "type": undefined,
+                            },
+                            "x-attribsPrefix": Object {
+                              "aria-controls": undefined,
+                              "aria-selected": undefined,
+                              "class": undefined,
+                              "id": undefined,
+                              "role": undefined,
+                              "tabindex": undefined,
+                              "type": undefined,
+                            },
+                          },
+                          "type": "tag",
+                          "x-attribsNamespace": Object {
+                            "aria-controls": undefined,
+                            "aria-selected": undefined,
+                            "class": undefined,
+                            "id": undefined,
+                            "role": undefined,
+                            "tabindex": undefined,
+                            "type": undefined,
+                          },
+                          "x-attribsPrefix": Object {
+                            "aria-controls": undefined,
+                            "aria-selected": undefined,
+                            "class": undefined,
+                            "id": undefined,
+                            "role": undefined,
+                            "tabindex": undefined,
+                            "type": undefined,
+                          },
+                        },
+                      ],
+                      "name": "div",
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "next": null,
+                      "parent": [Circular],
+                      "prev": null,
+                      "type": "tag",
+                      "x-attribsNamespace": Object {
+                        "aria-label": undefined,
+                        "class": undefined,
+                        "role": undefined,
+                      },
+                      "x-attribsPrefix": Object {
+                        "aria-label": undefined,
+                        "class": undefined,
+                        "role": undefined,
+                      },
+                    },
+                  ],
+                  "name": "div",
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "next": null,
+                  "parent": [Circular],
+                  "prev": null,
+                  "type": "tag",
+                  "x-attribsNamespace": Object {
+                    "class": undefined,
+                    "style": undefined,
+                  },
+                  "x-attribsPrefix": Object {
+                    "class": undefined,
+                    "style": undefined,
+                  },
+                },
+              ],
+              "name": "div",
+              "namespace": "http://www.w3.org/1999/xhtml",
+              "next": null,
+              "parent": [Circular],
+              "prev": null,
+              "type": "tag",
+              "x-attribsNamespace": Object {
+                "class": undefined,
+              },
+              "x-attribsPrefix": Object {
+                "class": undefined,
+              },
+            },
+          ],
+          "name": "header",
+          "namespace": "http://www.w3.org/1999/xhtml",
+          "next": [Circular],
+          "parent": [Circular],
+          "prev": null,
+          "type": "tag",
+          "x-attribsNamespace": Object {
+            "class": undefined,
+          },
+          "x-attribsPrefix": Object {
+            "class": undefined,
+          },
+        },
+        "type": "tag",
+        "x-attribsNamespace": Object {
+          "aria-labelledby": undefined,
+          "id": undefined,
+          "role": undefined,
+        },
+        "x-attribsPrefix": Object {
+          "aria-labelledby": undefined,
+          "id": undefined,
+          "role": undefined,
+        },
+      },
+      Object {
+        "attribs": Object {
+          "aria-labelledby": "tab-1",
+          "hidden": "",
+          "id": "tabpanel-1",
+          "role": "tabpanel",
+        },
+        "children": Array [],
+        "name": "div",
+        "namespace": "http://www.w3.org/1999/xhtml",
+        "next": null,
+        "parent": [Circular],
+        "prev": Object {
+          "attribs": Object {
+            "aria-labelledby": "tab-0",
+            "id": "tabpanel-0",
+            "role": "tabpanel",
+          },
+          "children": Array [
+            Object {
+              "attribs": Object {
+                "class": "MuiBox-root MuiBox-root-6",
+              },
+              "children": Array [],
+              "name": "div",
+              "namespace": "http://www.w3.org/1999/xhtml",
+              "next": null,
+              "parent": [Circular],
+              "prev": null,
+              "type": "tag",
+              "x-attribsNamespace": Object {
+                "class": undefined,
+              },
+              "x-attribsPrefix": Object {
+                "class": undefined,
+              },
+            },
+          ],
+          "name": "div",
+          "namespace": "http://www.w3.org/1999/xhtml",
+          "next": [Circular],
+          "parent": [Circular],
+          "prev": Object {
+            "attribs": Object {
+              "class": "MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary MuiPaper-elevation4",
+            },
+            "children": Array [
+              Object {
+                "attribs": Object {
+                  "class": "MuiTabs-root",
+                },
+                "children": Array [
+                  Object {
+                    "attribs": Object {
+                      "class": "MuiTabs-scroller MuiTabs-fixed",
+                      "style": "overflow:hidden",
+                    },
+                    "children": Array [
+                      Object {
+                        "attribs": Object {
+                          "aria-label": "Transactions type selection",
+                          "class": "MuiTabs-flexContainer",
+                          "role": "tablist",
+                        },
+                        "children": Array [
+                          Object {
+                            "attribs": Object {
+                              "aria-controls": "tabpanel-bills",
+                              "aria-selected": "true",
+                              "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected",
+                              "id": "tab-bills",
+                              "role": "tab",
+                              "tabindex": "0",
+                              "type": "button",
+                            },
+                            "children": Array [
+                              Object {
+                                "attribs": Object {
+                                  "class": "MuiTab-wrapper",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "data": "Bills",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "text",
+                                  },
+                                ],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": Object {
+                                  "attribs": Object {
+                                    "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                                  },
+                                  "children": Array [],
+                                  "name": "span",
+                                  "namespace": "http://www.w3.org/1999/xhtml",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": [Circular],
+                                  "type": "tag",
+                                  "x-attribsNamespace": Object {
+                                    "class": undefined,
+                                  },
+                                  "x-attribsPrefix": Object {
+                                    "class": undefined,
+                                  },
+                                },
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                              Object {
+                                "attribs": Object {
+                                  "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                                },
+                                "children": Array [],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": Object {
+                                  "attribs": Object {
+                                    "class": "MuiTab-wrapper",
+                                  },
+                                  "children": Array [
+                                    Object {
+                                      "data": "Bills",
+                                      "next": null,
+                                      "parent": [Circular],
+                                      "prev": null,
+                                      "type": "text",
+                                    },
+                                  ],
+                                  "name": "span",
+                                  "namespace": "http://www.w3.org/1999/xhtml",
+                                  "next": [Circular],
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "tag",
+                                  "x-attribsNamespace": Object {
+                                    "class": undefined,
+                                  },
+                                  "x-attribsPrefix": Object {
+                                    "class": undefined,
+                                  },
+                                },
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                            ],
+                            "name": "button",
+                            "namespace": "http://www.w3.org/1999/xhtml",
+                            "next": Object {
+                              "attribs": Object {
+                                "aria-controls": "tabpanel-pbills",
+                                "aria-selected": "false",
+                                "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit",
+                                "id": "tab-pbills",
+                                "role": "tab",
+                                "tabindex": "-1",
+                                "type": "button",
+                              },
+                              "children": Array [
+                                Object {
+                                  "attribs": Object {
+                                    "class": "MuiTab-wrapper",
+                                  },
+                                  "children": Array [
+                                    Object {
+                                      "data": "Potential Bills",
+                                      "next": null,
+                                      "parent": [Circular],
+                                      "prev": null,
+                                      "type": "text",
+                                    },
+                                  ],
+                                  "name": "span",
+                                  "namespace": "http://www.w3.org/1999/xhtml",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "tag",
+                                  "x-attribsNamespace": Object {
+                                    "class": undefined,
+                                  },
+                                  "x-attribsPrefix": Object {
+                                    "class": undefined,
+                                  },
+                                },
+                              ],
+                              "name": "button",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": [Circular],
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "aria-controls": undefined,
+                                "aria-selected": undefined,
+                                "class": undefined,
+                                "id": undefined,
+                                "role": undefined,
+                                "tabindex": undefined,
+                                "type": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "aria-controls": undefined,
+                                "aria-selected": undefined,
+                                "class": undefined,
+                                "id": undefined,
+                                "role": undefined,
+                                "tabindex": undefined,
+                                "type": undefined,
+                              },
+                            },
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "tag",
+                            "x-attribsNamespace": Object {
+                              "aria-controls": undefined,
+                              "aria-selected": undefined,
+                              "class": undefined,
+                              "id": undefined,
+                              "role": undefined,
+                              "tabindex": undefined,
+                              "type": undefined,
+                            },
+                            "x-attribsPrefix": Object {
+                              "aria-controls": undefined,
+                              "aria-selected": undefined,
+                              "class": undefined,
+                              "id": undefined,
+                              "role": undefined,
+                              "tabindex": undefined,
+                              "type": undefined,
+                            },
+                          },
+                          Object {
+                            "attribs": Object {
+                              "aria-controls": "tabpanel-pbills",
+                              "aria-selected": "false",
+                              "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit",
+                              "id": "tab-pbills",
+                              "role": "tab",
+                              "tabindex": "-1",
+                              "type": "button",
+                            },
+                            "children": Array [
+                              Object {
+                                "attribs": Object {
+                                  "class": "MuiTab-wrapper",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "data": "Potential Bills",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "text",
+                                  },
+                                ],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                            ],
+                            "name": "button",
+                            "namespace": "http://www.w3.org/1999/xhtml",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": Object {
+                              "attribs": Object {
+                                "aria-controls": "tabpanel-bills",
+                                "aria-selected": "true",
+                                "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected",
+                                "id": "tab-bills",
+                                "role": "tab",
+                                "tabindex": "0",
+                                "type": "button",
+                              },
+                              "children": Array [
+                                Object {
+                                  "attribs": Object {
+                                    "class": "MuiTab-wrapper",
+                                  },
+                                  "children": Array [
+                                    Object {
+                                      "data": "Bills",
+                                      "next": null,
+                                      "parent": [Circular],
+                                      "prev": null,
+                                      "type": "text",
+                                    },
+                                  ],
+                                  "name": "span",
+                                  "namespace": "http://www.w3.org/1999/xhtml",
+                                  "next": Object {
+                                    "attribs": Object {
+                                      "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                                    },
+                                    "children": Array [],
+                                    "name": "span",
+                                    "namespace": "http://www.w3.org/1999/xhtml",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": [Circular],
+                                    "type": "tag",
+                                    "x-attribsNamespace": Object {
+                                      "class": undefined,
+                                    },
+                                    "x-attribsPrefix": Object {
+                                      "class": undefined,
+                                    },
+                                  },
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "tag",
+                                  "x-attribsNamespace": Object {
+                                    "class": undefined,
+                                  },
+                                  "x-attribsPrefix": Object {
+                                    "class": undefined,
+                                  },
+                                },
+                                Object {
+                                  "attribs": Object {
+                                    "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                                  },
+                                  "children": Array [],
+                                  "name": "span",
+                                  "namespace": "http://www.w3.org/1999/xhtml",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": Object {
+                                    "attribs": Object {
+                                      "class": "MuiTab-wrapper",
+                                    },
+                                    "children": Array [
+                                      Object {
+                                        "data": "Bills",
+                                        "next": null,
+                                        "parent": [Circular],
+                                        "prev": null,
+                                        "type": "text",
+                                      },
+                                    ],
+                                    "name": "span",
+                                    "namespace": "http://www.w3.org/1999/xhtml",
+                                    "next": [Circular],
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "tag",
+                                    "x-attribsNamespace": Object {
+                                      "class": undefined,
+                                    },
+                                    "x-attribsPrefix": Object {
+                                      "class": undefined,
+                                    },
+                                  },
+                                  "type": "tag",
+                                  "x-attribsNamespace": Object {
+                                    "class": undefined,
+                                  },
+                                  "x-attribsPrefix": Object {
+                                    "class": undefined,
+                                  },
+                                },
+                              ],
+                              "name": "button",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": [Circular],
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "aria-controls": undefined,
+                                "aria-selected": undefined,
+                                "class": undefined,
+                                "id": undefined,
+                                "role": undefined,
+                                "tabindex": undefined,
+                                "type": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "aria-controls": undefined,
+                                "aria-selected": undefined,
+                                "class": undefined,
+                                "id": undefined,
+                                "role": undefined,
+                                "tabindex": undefined,
+                                "type": undefined,
+                              },
+                            },
+                            "type": "tag",
+                            "x-attribsNamespace": Object {
+                              "aria-controls": undefined,
+                              "aria-selected": undefined,
+                              "class": undefined,
+                              "id": undefined,
+                              "role": undefined,
+                              "tabindex": undefined,
+                              "type": undefined,
+                            },
+                            "x-attribsPrefix": Object {
+                              "aria-controls": undefined,
+                              "aria-selected": undefined,
+                              "class": undefined,
+                              "id": undefined,
+                              "role": undefined,
+                              "tabindex": undefined,
+                              "type": undefined,
+                            },
+                          },
+                        ],
+                        "name": "div",
+                        "namespace": "http://www.w3.org/1999/xhtml",
+                        "next": null,
+                        "parent": [Circular],
+                        "prev": null,
+                        "type": "tag",
+                        "x-attribsNamespace": Object {
+                          "aria-label": undefined,
+                          "class": undefined,
+                          "role": undefined,
+                        },
+                        "x-attribsPrefix": Object {
+                          "aria-label": undefined,
+                          "class": undefined,
+                          "role": undefined,
+                        },
+                      },
+                    ],
+                    "name": "div",
+                    "namespace": "http://www.w3.org/1999/xhtml",
+                    "next": null,
+                    "parent": [Circular],
+                    "prev": null,
+                    "type": "tag",
+                    "x-attribsNamespace": Object {
+                      "class": undefined,
+                      "style": undefined,
+                    },
+                    "x-attribsPrefix": Object {
+                      "class": undefined,
+                      "style": undefined,
+                    },
+                  },
+                ],
+                "name": "div",
+                "namespace": "http://www.w3.org/1999/xhtml",
+                "next": null,
+                "parent": [Circular],
+                "prev": null,
+                "type": "tag",
+                "x-attribsNamespace": Object {
+                  "class": undefined,
+                },
+                "x-attribsPrefix": Object {
+                  "class": undefined,
+                },
+              },
+            ],
+            "name": "header",
+            "namespace": "http://www.w3.org/1999/xhtml",
+            "next": [Circular],
+            "parent": [Circular],
+            "prev": null,
+            "type": "tag",
+            "x-attribsNamespace": Object {
+              "class": undefined,
+            },
+            "x-attribsPrefix": Object {
+              "class": undefined,
+            },
+          },
+          "type": "tag",
+          "x-attribsNamespace": Object {
+            "aria-labelledby": undefined,
+            "id": undefined,
+            "role": undefined,
+          },
+          "x-attribsPrefix": Object {
+            "aria-labelledby": undefined,
+            "id": undefined,
+            "role": undefined,
+          },
+        },
+        "type": "tag",
+        "x-attribsNamespace": Object {
+          "aria-labelledby": undefined,
+          "hidden": undefined,
+          "id": undefined,
+          "role": undefined,
+        },
+        "x-attribsPrefix": Object {
+          "aria-labelledby": undefined,
+          "hidden": undefined,
+          "id": undefined,
+          "role": undefined,
+        },
+      },
+    ],
+    "name": "main",
+    "namespace": "http://www.w3.org/1999/xhtml",
+    "next": null,
+    "parent": null,
+    "prev": null,
+    "root": Object {
+      "attribs": Object {},
+      "children": Array [
+        [Circular],
+      ],
+      "name": "root",
+      "namespace": "http://www.w3.org/1999/xhtml",
+      "next": null,
+      "parent": null,
+      "prev": null,
+      "type": "root",
+      "x-attribsNamespace": Object {},
+      "x-attribsPrefix": Object {},
+    },
+    "type": "tag",
+    "x-attribsNamespace": Object {},
+    "x-attribsPrefix": Object {},
+  },
+  "_root": [Circular],
+  "length": 1,
+  "options": Object {
+    "decodeEntities": true,
+    "normalizeWhitespace": false,
+    "withDomLvl1": true,
+    "xml": false,
+  },
+}
+`;
+
+exports[`Main should render Potential Bills tab component 1`] = `
+initialize {
+  "0": Object {
+    "attribs": Object {},
+    "children": Array [
+      Object {
+        "attribs": Object {
+          "class": "MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary MuiPaper-elevation4",
+        },
+        "children": Array [
+          Object {
+            "attribs": Object {
+              "class": "MuiTabs-root",
+            },
+            "children": Array [
+              Object {
+                "attribs": Object {
+                  "class": "MuiTabs-scroller MuiTabs-fixed",
+                  "style": "overflow:hidden",
+                },
+                "children": Array [
+                  Object {
+                    "attribs": Object {
+                      "aria-label": "Transactions type selection",
+                      "class": "MuiTabs-flexContainer",
+                      "role": "tablist",
+                    },
+                    "children": Array [
+                      Object {
+                        "attribs": Object {
+                          "aria-controls": "tabpanel-bills",
+                          "aria-selected": "true",
+                          "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected",
+                          "id": "tab-bills",
+                          "role": "tab",
+                          "tabindex": "0",
+                          "type": "button",
+                        },
+                        "children": Array [
+                          Object {
+                            "attribs": Object {
+                              "class": "MuiTab-wrapper",
+                            },
+                            "children": Array [
+                              Object {
+                                "data": "Bills",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "text",
+                              },
+                            ],
+                            "name": "span",
+                            "namespace": "http://www.w3.org/1999/xhtml",
+                            "next": Object {
+                              "attribs": Object {
+                                "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                              },
+                              "children": Array [],
+                              "name": "span",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": [Circular],
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "class": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "class": undefined,
+                              },
+                            },
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "tag",
+                            "x-attribsNamespace": Object {
+                              "class": undefined,
+                            },
+                            "x-attribsPrefix": Object {
+                              "class": undefined,
+                            },
+                          },
+                          Object {
+                            "attribs": Object {
+                              "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                            },
+                            "children": Array [],
+                            "name": "span",
+                            "namespace": "http://www.w3.org/1999/xhtml",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": Object {
+                              "attribs": Object {
+                                "class": "MuiTab-wrapper",
+                              },
+                              "children": Array [
+                                Object {
+                                  "data": "Bills",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "text",
+                                },
+                              ],
+                              "name": "span",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": [Circular],
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "class": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "class": undefined,
+                              },
+                            },
+                            "type": "tag",
+                            "x-attribsNamespace": Object {
+                              "class": undefined,
+                            },
+                            "x-attribsPrefix": Object {
+                              "class": undefined,
+                            },
+                          },
+                        ],
+                        "name": "button",
+                        "namespace": "http://www.w3.org/1999/xhtml",
+                        "next": Object {
+                          "attribs": Object {
+                            "aria-controls": "tabpanel-pbills",
+                            "aria-selected": "false",
+                            "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit",
+                            "id": "tab-pbills",
+                            "role": "tab",
+                            "tabindex": "-1",
+                            "type": "button",
+                          },
+                          "children": Array [
+                            Object {
+                              "attribs": Object {
+                                "class": "MuiTab-wrapper",
+                              },
+                              "children": Array [
+                                Object {
+                                  "data": "Potential Bills",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "text",
+                                },
+                              ],
+                              "name": "span",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "class": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "class": undefined,
+                              },
+                            },
+                          ],
+                          "name": "button",
+                          "namespace": "http://www.w3.org/1999/xhtml",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": [Circular],
+                          "type": "tag",
+                          "x-attribsNamespace": Object {
+                            "aria-controls": undefined,
+                            "aria-selected": undefined,
+                            "class": undefined,
+                            "id": undefined,
+                            "role": undefined,
+                            "tabindex": undefined,
+                            "type": undefined,
+                          },
+                          "x-attribsPrefix": Object {
+                            "aria-controls": undefined,
+                            "aria-selected": undefined,
+                            "class": undefined,
+                            "id": undefined,
+                            "role": undefined,
+                            "tabindex": undefined,
+                            "type": undefined,
+                          },
+                        },
+                        "parent": [Circular],
+                        "prev": null,
+                        "type": "tag",
+                        "x-attribsNamespace": Object {
+                          "aria-controls": undefined,
+                          "aria-selected": undefined,
+                          "class": undefined,
+                          "id": undefined,
+                          "role": undefined,
+                          "tabindex": undefined,
+                          "type": undefined,
+                        },
+                        "x-attribsPrefix": Object {
+                          "aria-controls": undefined,
+                          "aria-selected": undefined,
+                          "class": undefined,
+                          "id": undefined,
+                          "role": undefined,
+                          "tabindex": undefined,
+                          "type": undefined,
+                        },
+                      },
+                      Object {
+                        "attribs": Object {
+                          "aria-controls": "tabpanel-pbills",
+                          "aria-selected": "false",
+                          "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit",
+                          "id": "tab-pbills",
+                          "role": "tab",
+                          "tabindex": "-1",
+                          "type": "button",
+                        },
+                        "children": Array [
+                          Object {
+                            "attribs": Object {
+                              "class": "MuiTab-wrapper",
+                            },
+                            "children": Array [
+                              Object {
+                                "data": "Potential Bills",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "text",
+                              },
+                            ],
+                            "name": "span",
+                            "namespace": "http://www.w3.org/1999/xhtml",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "tag",
+                            "x-attribsNamespace": Object {
+                              "class": undefined,
+                            },
+                            "x-attribsPrefix": Object {
+                              "class": undefined,
+                            },
+                          },
+                        ],
+                        "name": "button",
+                        "namespace": "http://www.w3.org/1999/xhtml",
+                        "next": null,
+                        "parent": [Circular],
+                        "prev": Object {
+                          "attribs": Object {
+                            "aria-controls": "tabpanel-bills",
+                            "aria-selected": "true",
+                            "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected",
+                            "id": "tab-bills",
+                            "role": "tab",
+                            "tabindex": "0",
+                            "type": "button",
+                          },
+                          "children": Array [
+                            Object {
+                              "attribs": Object {
+                                "class": "MuiTab-wrapper",
+                              },
+                              "children": Array [
+                                Object {
+                                  "data": "Bills",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "text",
+                                },
+                              ],
+                              "name": "span",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": Object {
+                                "attribs": Object {
+                                  "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                                },
+                                "children": Array [],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": [Circular],
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "class": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "class": undefined,
+                              },
+                            },
+                            Object {
+                              "attribs": Object {
+                                "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                              },
+                              "children": Array [],
+                              "name": "span",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": Object {
+                                "attribs": Object {
+                                  "class": "MuiTab-wrapper",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "data": "Bills",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "text",
+                                  },
+                                ],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": [Circular],
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "class": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "class": undefined,
+                              },
+                            },
+                          ],
+                          "name": "button",
+                          "namespace": "http://www.w3.org/1999/xhtml",
+                          "next": [Circular],
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "tag",
+                          "x-attribsNamespace": Object {
+                            "aria-controls": undefined,
+                            "aria-selected": undefined,
+                            "class": undefined,
+                            "id": undefined,
+                            "role": undefined,
+                            "tabindex": undefined,
+                            "type": undefined,
+                          },
+                          "x-attribsPrefix": Object {
+                            "aria-controls": undefined,
+                            "aria-selected": undefined,
+                            "class": undefined,
+                            "id": undefined,
+                            "role": undefined,
+                            "tabindex": undefined,
+                            "type": undefined,
+                          },
+                        },
+                        "type": "tag",
+                        "x-attribsNamespace": Object {
+                          "aria-controls": undefined,
+                          "aria-selected": undefined,
+                          "class": undefined,
+                          "id": undefined,
+                          "role": undefined,
+                          "tabindex": undefined,
+                          "type": undefined,
+                        },
+                        "x-attribsPrefix": Object {
+                          "aria-controls": undefined,
+                          "aria-selected": undefined,
+                          "class": undefined,
+                          "id": undefined,
+                          "role": undefined,
+                          "tabindex": undefined,
+                          "type": undefined,
+                        },
+                      },
+                    ],
+                    "name": "div",
+                    "namespace": "http://www.w3.org/1999/xhtml",
+                    "next": null,
+                    "parent": [Circular],
+                    "prev": null,
+                    "type": "tag",
+                    "x-attribsNamespace": Object {
+                      "aria-label": undefined,
+                      "class": undefined,
+                      "role": undefined,
+                    },
+                    "x-attribsPrefix": Object {
+                      "aria-label": undefined,
+                      "class": undefined,
+                      "role": undefined,
+                    },
+                  },
+                ],
+                "name": "div",
+                "namespace": "http://www.w3.org/1999/xhtml",
+                "next": null,
+                "parent": [Circular],
+                "prev": null,
+                "type": "tag",
+                "x-attribsNamespace": Object {
+                  "class": undefined,
+                  "style": undefined,
+                },
+                "x-attribsPrefix": Object {
+                  "class": undefined,
+                  "style": undefined,
+                },
+              },
+            ],
+            "name": "div",
+            "namespace": "http://www.w3.org/1999/xhtml",
+            "next": null,
+            "parent": [Circular],
+            "prev": null,
+            "type": "tag",
+            "x-attribsNamespace": Object {
+              "class": undefined,
+            },
+            "x-attribsPrefix": Object {
+              "class": undefined,
+            },
+          },
+        ],
+        "name": "header",
+        "namespace": "http://www.w3.org/1999/xhtml",
+        "next": Object {
+          "attribs": Object {
+            "aria-labelledby": "tab-0",
+            "id": "tabpanel-0",
+            "role": "tabpanel",
+          },
+          "children": Array [
+            Object {
+              "attribs": Object {
+                "class": "MuiBox-root MuiBox-root-7",
+              },
+              "children": Array [],
+              "name": "div",
+              "namespace": "http://www.w3.org/1999/xhtml",
+              "next": null,
+              "parent": [Circular],
+              "prev": null,
+              "type": "tag",
+              "x-attribsNamespace": Object {
+                "class": undefined,
+              },
+              "x-attribsPrefix": Object {
+                "class": undefined,
+              },
+            },
+          ],
+          "name": "div",
+          "namespace": "http://www.w3.org/1999/xhtml",
+          "next": Object {
+            "attribs": Object {
+              "aria-labelledby": "tab-1",
+              "hidden": "",
+              "id": "tabpanel-1",
+              "role": "tabpanel",
+            },
+            "children": Array [],
+            "name": "div",
+            "namespace": "http://www.w3.org/1999/xhtml",
+            "next": null,
+            "parent": [Circular],
+            "prev": [Circular],
+            "type": "tag",
+            "x-attribsNamespace": Object {
+              "aria-labelledby": undefined,
+              "hidden": undefined,
+              "id": undefined,
+              "role": undefined,
+            },
+            "x-attribsPrefix": Object {
+              "aria-labelledby": undefined,
+              "hidden": undefined,
+              "id": undefined,
+              "role": undefined,
+            },
+          },
+          "parent": [Circular],
+          "prev": [Circular],
+          "type": "tag",
+          "x-attribsNamespace": Object {
+            "aria-labelledby": undefined,
+            "id": undefined,
+            "role": undefined,
+          },
+          "x-attribsPrefix": Object {
+            "aria-labelledby": undefined,
+            "id": undefined,
+            "role": undefined,
+          },
+        },
+        "parent": [Circular],
+        "prev": null,
+        "type": "tag",
+        "x-attribsNamespace": Object {
+          "class": undefined,
+        },
+        "x-attribsPrefix": Object {
+          "class": undefined,
+        },
+      },
+      Object {
+        "attribs": Object {
+          "aria-labelledby": "tab-0",
+          "id": "tabpanel-0",
+          "role": "tabpanel",
+        },
+        "children": Array [
+          Object {
+            "attribs": Object {
+              "class": "MuiBox-root MuiBox-root-7",
+            },
+            "children": Array [],
+            "name": "div",
+            "namespace": "http://www.w3.org/1999/xhtml",
+            "next": null,
+            "parent": [Circular],
+            "prev": null,
+            "type": "tag",
+            "x-attribsNamespace": Object {
+              "class": undefined,
+            },
+            "x-attribsPrefix": Object {
+              "class": undefined,
+            },
+          },
+        ],
+        "name": "div",
+        "namespace": "http://www.w3.org/1999/xhtml",
+        "next": Object {
+          "attribs": Object {
+            "aria-labelledby": "tab-1",
+            "hidden": "",
+            "id": "tabpanel-1",
+            "role": "tabpanel",
+          },
+          "children": Array [],
+          "name": "div",
+          "namespace": "http://www.w3.org/1999/xhtml",
+          "next": null,
+          "parent": [Circular],
+          "prev": [Circular],
+          "type": "tag",
+          "x-attribsNamespace": Object {
+            "aria-labelledby": undefined,
+            "hidden": undefined,
+            "id": undefined,
+            "role": undefined,
+          },
+          "x-attribsPrefix": Object {
+            "aria-labelledby": undefined,
+            "hidden": undefined,
+            "id": undefined,
+            "role": undefined,
+          },
+        },
+        "parent": [Circular],
+        "prev": Object {
+          "attribs": Object {
+            "class": "MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary MuiPaper-elevation4",
+          },
+          "children": Array [
+            Object {
+              "attribs": Object {
+                "class": "MuiTabs-root",
+              },
+              "children": Array [
+                Object {
+                  "attribs": Object {
+                    "class": "MuiTabs-scroller MuiTabs-fixed",
+                    "style": "overflow:hidden",
+                  },
+                  "children": Array [
+                    Object {
+                      "attribs": Object {
+                        "aria-label": "Transactions type selection",
+                        "class": "MuiTabs-flexContainer",
+                        "role": "tablist",
+                      },
+                      "children": Array [
+                        Object {
+                          "attribs": Object {
+                            "aria-controls": "tabpanel-bills",
+                            "aria-selected": "true",
+                            "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected",
+                            "id": "tab-bills",
+                            "role": "tab",
+                            "tabindex": "0",
+                            "type": "button",
+                          },
+                          "children": Array [
+                            Object {
+                              "attribs": Object {
+                                "class": "MuiTab-wrapper",
+                              },
+                              "children": Array [
+                                Object {
+                                  "data": "Bills",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "text",
+                                },
+                              ],
+                              "name": "span",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": Object {
+                                "attribs": Object {
+                                  "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                                },
+                                "children": Array [],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": [Circular],
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "class": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "class": undefined,
+                              },
+                            },
+                            Object {
+                              "attribs": Object {
+                                "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                              },
+                              "children": Array [],
+                              "name": "span",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": Object {
+                                "attribs": Object {
+                                  "class": "MuiTab-wrapper",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "data": "Bills",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "text",
+                                  },
+                                ],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": [Circular],
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "class": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "class": undefined,
+                              },
+                            },
+                          ],
+                          "name": "button",
+                          "namespace": "http://www.w3.org/1999/xhtml",
+                          "next": Object {
+                            "attribs": Object {
+                              "aria-controls": "tabpanel-pbills",
+                              "aria-selected": "false",
+                              "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit",
+                              "id": "tab-pbills",
+                              "role": "tab",
+                              "tabindex": "-1",
+                              "type": "button",
+                            },
+                            "children": Array [
+                              Object {
+                                "attribs": Object {
+                                  "class": "MuiTab-wrapper",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "data": "Potential Bills",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "text",
+                                  },
+                                ],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                            ],
+                            "name": "button",
+                            "namespace": "http://www.w3.org/1999/xhtml",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": [Circular],
+                            "type": "tag",
+                            "x-attribsNamespace": Object {
+                              "aria-controls": undefined,
+                              "aria-selected": undefined,
+                              "class": undefined,
+                              "id": undefined,
+                              "role": undefined,
+                              "tabindex": undefined,
+                              "type": undefined,
+                            },
+                            "x-attribsPrefix": Object {
+                              "aria-controls": undefined,
+                              "aria-selected": undefined,
+                              "class": undefined,
+                              "id": undefined,
+                              "role": undefined,
+                              "tabindex": undefined,
+                              "type": undefined,
+                            },
+                          },
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "tag",
+                          "x-attribsNamespace": Object {
+                            "aria-controls": undefined,
+                            "aria-selected": undefined,
+                            "class": undefined,
+                            "id": undefined,
+                            "role": undefined,
+                            "tabindex": undefined,
+                            "type": undefined,
+                          },
+                          "x-attribsPrefix": Object {
+                            "aria-controls": undefined,
+                            "aria-selected": undefined,
+                            "class": undefined,
+                            "id": undefined,
+                            "role": undefined,
+                            "tabindex": undefined,
+                            "type": undefined,
+                          },
+                        },
+                        Object {
+                          "attribs": Object {
+                            "aria-controls": "tabpanel-pbills",
+                            "aria-selected": "false",
+                            "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit",
+                            "id": "tab-pbills",
+                            "role": "tab",
+                            "tabindex": "-1",
+                            "type": "button",
+                          },
+                          "children": Array [
+                            Object {
+                              "attribs": Object {
+                                "class": "MuiTab-wrapper",
+                              },
+                              "children": Array [
+                                Object {
+                                  "data": "Potential Bills",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "text",
+                                },
+                              ],
+                              "name": "span",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "class": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "class": undefined,
+                              },
+                            },
+                          ],
+                          "name": "button",
+                          "namespace": "http://www.w3.org/1999/xhtml",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": Object {
+                            "attribs": Object {
+                              "aria-controls": "tabpanel-bills",
+                              "aria-selected": "true",
+                              "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected",
+                              "id": "tab-bills",
+                              "role": "tab",
+                              "tabindex": "0",
+                              "type": "button",
+                            },
+                            "children": Array [
+                              Object {
+                                "attribs": Object {
+                                  "class": "MuiTab-wrapper",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "data": "Bills",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "text",
+                                  },
+                                ],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": Object {
+                                  "attribs": Object {
+                                    "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                                  },
+                                  "children": Array [],
+                                  "name": "span",
+                                  "namespace": "http://www.w3.org/1999/xhtml",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": [Circular],
+                                  "type": "tag",
+                                  "x-attribsNamespace": Object {
+                                    "class": undefined,
+                                  },
+                                  "x-attribsPrefix": Object {
+                                    "class": undefined,
+                                  },
+                                },
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                              Object {
+                                "attribs": Object {
+                                  "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                                },
+                                "children": Array [],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": Object {
+                                  "attribs": Object {
+                                    "class": "MuiTab-wrapper",
+                                  },
+                                  "children": Array [
+                                    Object {
+                                      "data": "Bills",
+                                      "next": null,
+                                      "parent": [Circular],
+                                      "prev": null,
+                                      "type": "text",
+                                    },
+                                  ],
+                                  "name": "span",
+                                  "namespace": "http://www.w3.org/1999/xhtml",
+                                  "next": [Circular],
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "tag",
+                                  "x-attribsNamespace": Object {
+                                    "class": undefined,
+                                  },
+                                  "x-attribsPrefix": Object {
+                                    "class": undefined,
+                                  },
+                                },
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                            ],
+                            "name": "button",
+                            "namespace": "http://www.w3.org/1999/xhtml",
+                            "next": [Circular],
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "tag",
+                            "x-attribsNamespace": Object {
+                              "aria-controls": undefined,
+                              "aria-selected": undefined,
+                              "class": undefined,
+                              "id": undefined,
+                              "role": undefined,
+                              "tabindex": undefined,
+                              "type": undefined,
+                            },
+                            "x-attribsPrefix": Object {
+                              "aria-controls": undefined,
+                              "aria-selected": undefined,
+                              "class": undefined,
+                              "id": undefined,
+                              "role": undefined,
+                              "tabindex": undefined,
+                              "type": undefined,
+                            },
+                          },
+                          "type": "tag",
+                          "x-attribsNamespace": Object {
+                            "aria-controls": undefined,
+                            "aria-selected": undefined,
+                            "class": undefined,
+                            "id": undefined,
+                            "role": undefined,
+                            "tabindex": undefined,
+                            "type": undefined,
+                          },
+                          "x-attribsPrefix": Object {
+                            "aria-controls": undefined,
+                            "aria-selected": undefined,
+                            "class": undefined,
+                            "id": undefined,
+                            "role": undefined,
+                            "tabindex": undefined,
+                            "type": undefined,
+                          },
+                        },
+                      ],
+                      "name": "div",
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "next": null,
+                      "parent": [Circular],
+                      "prev": null,
+                      "type": "tag",
+                      "x-attribsNamespace": Object {
+                        "aria-label": undefined,
+                        "class": undefined,
+                        "role": undefined,
+                      },
+                      "x-attribsPrefix": Object {
+                        "aria-label": undefined,
+                        "class": undefined,
+                        "role": undefined,
+                      },
+                    },
+                  ],
+                  "name": "div",
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "next": null,
+                  "parent": [Circular],
+                  "prev": null,
+                  "type": "tag",
+                  "x-attribsNamespace": Object {
+                    "class": undefined,
+                    "style": undefined,
+                  },
+                  "x-attribsPrefix": Object {
+                    "class": undefined,
+                    "style": undefined,
+                  },
+                },
+              ],
+              "name": "div",
+              "namespace": "http://www.w3.org/1999/xhtml",
+              "next": null,
+              "parent": [Circular],
+              "prev": null,
+              "type": "tag",
+              "x-attribsNamespace": Object {
+                "class": undefined,
+              },
+              "x-attribsPrefix": Object {
+                "class": undefined,
+              },
+            },
+          ],
+          "name": "header",
+          "namespace": "http://www.w3.org/1999/xhtml",
+          "next": [Circular],
+          "parent": [Circular],
+          "prev": null,
+          "type": "tag",
+          "x-attribsNamespace": Object {
+            "class": undefined,
+          },
+          "x-attribsPrefix": Object {
+            "class": undefined,
+          },
+        },
+        "type": "tag",
+        "x-attribsNamespace": Object {
+          "aria-labelledby": undefined,
+          "id": undefined,
+          "role": undefined,
+        },
+        "x-attribsPrefix": Object {
+          "aria-labelledby": undefined,
+          "id": undefined,
+          "role": undefined,
+        },
+      },
+      Object {
+        "attribs": Object {
+          "aria-labelledby": "tab-1",
+          "hidden": "",
+          "id": "tabpanel-1",
+          "role": "tabpanel",
+        },
+        "children": Array [],
+        "name": "div",
+        "namespace": "http://www.w3.org/1999/xhtml",
+        "next": null,
+        "parent": [Circular],
+        "prev": Object {
+          "attribs": Object {
+            "aria-labelledby": "tab-0",
+            "id": "tabpanel-0",
+            "role": "tabpanel",
+          },
+          "children": Array [
+            Object {
+              "attribs": Object {
+                "class": "MuiBox-root MuiBox-root-7",
+              },
+              "children": Array [],
+              "name": "div",
+              "namespace": "http://www.w3.org/1999/xhtml",
+              "next": null,
+              "parent": [Circular],
+              "prev": null,
+              "type": "tag",
+              "x-attribsNamespace": Object {
+                "class": undefined,
+              },
+              "x-attribsPrefix": Object {
+                "class": undefined,
+              },
+            },
+          ],
+          "name": "div",
+          "namespace": "http://www.w3.org/1999/xhtml",
+          "next": [Circular],
+          "parent": [Circular],
+          "prev": Object {
+            "attribs": Object {
+              "class": "MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary MuiPaper-elevation4",
+            },
+            "children": Array [
+              Object {
+                "attribs": Object {
+                  "class": "MuiTabs-root",
+                },
+                "children": Array [
+                  Object {
+                    "attribs": Object {
+                      "class": "MuiTabs-scroller MuiTabs-fixed",
+                      "style": "overflow:hidden",
+                    },
+                    "children": Array [
+                      Object {
+                        "attribs": Object {
+                          "aria-label": "Transactions type selection",
+                          "class": "MuiTabs-flexContainer",
+                          "role": "tablist",
+                        },
+                        "children": Array [
+                          Object {
+                            "attribs": Object {
+                              "aria-controls": "tabpanel-bills",
+                              "aria-selected": "true",
+                              "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected",
+                              "id": "tab-bills",
+                              "role": "tab",
+                              "tabindex": "0",
+                              "type": "button",
+                            },
+                            "children": Array [
+                              Object {
+                                "attribs": Object {
+                                  "class": "MuiTab-wrapper",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "data": "Bills",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "text",
+                                  },
+                                ],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": Object {
+                                  "attribs": Object {
+                                    "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                                  },
+                                  "children": Array [],
+                                  "name": "span",
+                                  "namespace": "http://www.w3.org/1999/xhtml",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": [Circular],
+                                  "type": "tag",
+                                  "x-attribsNamespace": Object {
+                                    "class": undefined,
+                                  },
+                                  "x-attribsPrefix": Object {
+                                    "class": undefined,
+                                  },
+                                },
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                              Object {
+                                "attribs": Object {
+                                  "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                                },
+                                "children": Array [],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": Object {
+                                  "attribs": Object {
+                                    "class": "MuiTab-wrapper",
+                                  },
+                                  "children": Array [
+                                    Object {
+                                      "data": "Bills",
+                                      "next": null,
+                                      "parent": [Circular],
+                                      "prev": null,
+                                      "type": "text",
+                                    },
+                                  ],
+                                  "name": "span",
+                                  "namespace": "http://www.w3.org/1999/xhtml",
+                                  "next": [Circular],
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "tag",
+                                  "x-attribsNamespace": Object {
+                                    "class": undefined,
+                                  },
+                                  "x-attribsPrefix": Object {
+                                    "class": undefined,
+                                  },
+                                },
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                            ],
+                            "name": "button",
+                            "namespace": "http://www.w3.org/1999/xhtml",
+                            "next": Object {
+                              "attribs": Object {
+                                "aria-controls": "tabpanel-pbills",
+                                "aria-selected": "false",
+                                "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit",
+                                "id": "tab-pbills",
+                                "role": "tab",
+                                "tabindex": "-1",
+                                "type": "button",
+                              },
+                              "children": Array [
+                                Object {
+                                  "attribs": Object {
+                                    "class": "MuiTab-wrapper",
+                                  },
+                                  "children": Array [
+                                    Object {
+                                      "data": "Potential Bills",
+                                      "next": null,
+                                      "parent": [Circular],
+                                      "prev": null,
+                                      "type": "text",
+                                    },
+                                  ],
+                                  "name": "span",
+                                  "namespace": "http://www.w3.org/1999/xhtml",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "tag",
+                                  "x-attribsNamespace": Object {
+                                    "class": undefined,
+                                  },
+                                  "x-attribsPrefix": Object {
+                                    "class": undefined,
+                                  },
+                                },
+                              ],
+                              "name": "button",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": [Circular],
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "aria-controls": undefined,
+                                "aria-selected": undefined,
+                                "class": undefined,
+                                "id": undefined,
+                                "role": undefined,
+                                "tabindex": undefined,
+                                "type": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "aria-controls": undefined,
+                                "aria-selected": undefined,
+                                "class": undefined,
+                                "id": undefined,
+                                "role": undefined,
+                                "tabindex": undefined,
+                                "type": undefined,
+                              },
+                            },
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "tag",
+                            "x-attribsNamespace": Object {
+                              "aria-controls": undefined,
+                              "aria-selected": undefined,
+                              "class": undefined,
+                              "id": undefined,
+                              "role": undefined,
+                              "tabindex": undefined,
+                              "type": undefined,
+                            },
+                            "x-attribsPrefix": Object {
+                              "aria-controls": undefined,
+                              "aria-selected": undefined,
+                              "class": undefined,
+                              "id": undefined,
+                              "role": undefined,
+                              "tabindex": undefined,
+                              "type": undefined,
+                            },
+                          },
+                          Object {
+                            "attribs": Object {
+                              "aria-controls": "tabpanel-pbills",
+                              "aria-selected": "false",
+                              "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit",
+                              "id": "tab-pbills",
+                              "role": "tab",
+                              "tabindex": "-1",
+                              "type": "button",
+                            },
+                            "children": Array [
+                              Object {
+                                "attribs": Object {
+                                  "class": "MuiTab-wrapper",
+                                },
+                                "children": Array [
+                                  Object {
+                                    "data": "Potential Bills",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "text",
+                                  },
+                                ],
+                                "name": "span",
+                                "namespace": "http://www.w3.org/1999/xhtml",
+                                "next": null,
+                                "parent": [Circular],
+                                "prev": null,
+                                "type": "tag",
+                                "x-attribsNamespace": Object {
+                                  "class": undefined,
+                                },
+                                "x-attribsPrefix": Object {
+                                  "class": undefined,
+                                },
+                              },
+                            ],
+                            "name": "button",
+                            "namespace": "http://www.w3.org/1999/xhtml",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": Object {
+                              "attribs": Object {
+                                "aria-controls": "tabpanel-bills",
+                                "aria-selected": "true",
+                                "class": "MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected",
+                                "id": "tab-bills",
+                                "role": "tab",
+                                "tabindex": "0",
+                                "type": "button",
+                              },
+                              "children": Array [
+                                Object {
+                                  "attribs": Object {
+                                    "class": "MuiTab-wrapper",
+                                  },
+                                  "children": Array [
+                                    Object {
+                                      "data": "Bills",
+                                      "next": null,
+                                      "parent": [Circular],
+                                      "prev": null,
+                                      "type": "text",
+                                    },
+                                  ],
+                                  "name": "span",
+                                  "namespace": "http://www.w3.org/1999/xhtml",
+                                  "next": Object {
+                                    "attribs": Object {
+                                      "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                                    },
+                                    "children": Array [],
+                                    "name": "span",
+                                    "namespace": "http://www.w3.org/1999/xhtml",
+                                    "next": null,
+                                    "parent": [Circular],
+                                    "prev": [Circular],
+                                    "type": "tag",
+                                    "x-attribsNamespace": Object {
+                                      "class": undefined,
+                                    },
+                                    "x-attribsPrefix": Object {
+                                      "class": undefined,
+                                    },
+                                  },
+                                  "parent": [Circular],
+                                  "prev": null,
+                                  "type": "tag",
+                                  "x-attribsNamespace": Object {
+                                    "class": undefined,
+                                  },
+                                  "x-attribsPrefix": Object {
+                                    "class": undefined,
+                                  },
+                                },
+                                Object {
+                                  "attribs": Object {
+                                    "class": "PrivateTabIndicator-root-1 PrivateTabIndicator-colorSecondary-3 MuiTabs-indicator",
+                                  },
+                                  "children": Array [],
+                                  "name": "span",
+                                  "namespace": "http://www.w3.org/1999/xhtml",
+                                  "next": null,
+                                  "parent": [Circular],
+                                  "prev": Object {
+                                    "attribs": Object {
+                                      "class": "MuiTab-wrapper",
+                                    },
+                                    "children": Array [
+                                      Object {
+                                        "data": "Bills",
+                                        "next": null,
+                                        "parent": [Circular],
+                                        "prev": null,
+                                        "type": "text",
+                                      },
+                                    ],
+                                    "name": "span",
+                                    "namespace": "http://www.w3.org/1999/xhtml",
+                                    "next": [Circular],
+                                    "parent": [Circular],
+                                    "prev": null,
+                                    "type": "tag",
+                                    "x-attribsNamespace": Object {
+                                      "class": undefined,
+                                    },
+                                    "x-attribsPrefix": Object {
+                                      "class": undefined,
+                                    },
+                                  },
+                                  "type": "tag",
+                                  "x-attribsNamespace": Object {
+                                    "class": undefined,
+                                  },
+                                  "x-attribsPrefix": Object {
+                                    "class": undefined,
+                                  },
+                                },
+                              ],
+                              "name": "button",
+                              "namespace": "http://www.w3.org/1999/xhtml",
+                              "next": [Circular],
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "tag",
+                              "x-attribsNamespace": Object {
+                                "aria-controls": undefined,
+                                "aria-selected": undefined,
+                                "class": undefined,
+                                "id": undefined,
+                                "role": undefined,
+                                "tabindex": undefined,
+                                "type": undefined,
+                              },
+                              "x-attribsPrefix": Object {
+                                "aria-controls": undefined,
+                                "aria-selected": undefined,
+                                "class": undefined,
+                                "id": undefined,
+                                "role": undefined,
+                                "tabindex": undefined,
+                                "type": undefined,
+                              },
+                            },
+                            "type": "tag",
+                            "x-attribsNamespace": Object {
+                              "aria-controls": undefined,
+                              "aria-selected": undefined,
+                              "class": undefined,
+                              "id": undefined,
+                              "role": undefined,
+                              "tabindex": undefined,
+                              "type": undefined,
+                            },
+                            "x-attribsPrefix": Object {
+                              "aria-controls": undefined,
+                              "aria-selected": undefined,
+                              "class": undefined,
+                              "id": undefined,
+                              "role": undefined,
+                              "tabindex": undefined,
+                              "type": undefined,
+                            },
+                          },
+                        ],
+                        "name": "div",
+                        "namespace": "http://www.w3.org/1999/xhtml",
+                        "next": null,
+                        "parent": [Circular],
+                        "prev": null,
+                        "type": "tag",
+                        "x-attribsNamespace": Object {
+                          "aria-label": undefined,
+                          "class": undefined,
+                          "role": undefined,
+                        },
+                        "x-attribsPrefix": Object {
+                          "aria-label": undefined,
+                          "class": undefined,
+                          "role": undefined,
+                        },
+                      },
+                    ],
+                    "name": "div",
+                    "namespace": "http://www.w3.org/1999/xhtml",
+                    "next": null,
+                    "parent": [Circular],
+                    "prev": null,
+                    "type": "tag",
+                    "x-attribsNamespace": Object {
+                      "class": undefined,
+                      "style": undefined,
+                    },
+                    "x-attribsPrefix": Object {
+                      "class": undefined,
+                      "style": undefined,
+                    },
+                  },
+                ],
+                "name": "div",
+                "namespace": "http://www.w3.org/1999/xhtml",
+                "next": null,
+                "parent": [Circular],
+                "prev": null,
+                "type": "tag",
+                "x-attribsNamespace": Object {
+                  "class": undefined,
+                },
+                "x-attribsPrefix": Object {
+                  "class": undefined,
+                },
+              },
+            ],
+            "name": "header",
+            "namespace": "http://www.w3.org/1999/xhtml",
+            "next": [Circular],
+            "parent": [Circular],
+            "prev": null,
+            "type": "tag",
+            "x-attribsNamespace": Object {
+              "class": undefined,
+            },
+            "x-attribsPrefix": Object {
+              "class": undefined,
+            },
+          },
+          "type": "tag",
+          "x-attribsNamespace": Object {
+            "aria-labelledby": undefined,
+            "id": undefined,
+            "role": undefined,
+          },
+          "x-attribsPrefix": Object {
+            "aria-labelledby": undefined,
+            "id": undefined,
+            "role": undefined,
+          },
+        },
+        "type": "tag",
+        "x-attribsNamespace": Object {
+          "aria-labelledby": undefined,
+          "hidden": undefined,
+          "id": undefined,
+          "role": undefined,
+        },
+        "x-attribsPrefix": Object {
+          "aria-labelledby": undefined,
+          "hidden": undefined,
+          "id": undefined,
+          "role": undefined,
+        },
+      },
+    ],
+    "name": "main",
+    "namespace": "http://www.w3.org/1999/xhtml",
+    "next": null,
+    "parent": null,
+    "prev": null,
+    "root": Object {
+      "attribs": Object {},
+      "children": Array [
+        [Circular],
+      ],
+      "name": "root",
+      "namespace": "http://www.w3.org/1999/xhtml",
+      "next": null,
+      "parent": null,
+      "prev": null,
+      "type": "root",
+      "x-attribsNamespace": Object {},
+      "x-attribsPrefix": Object {},
+    },
+    "type": "tag",
+    "x-attribsNamespace": Object {},
+    "x-attribsPrefix": Object {},
+  },
+  "_root": [Circular],
+  "length": 1,
+  "options": Object {
+    "decodeEntities": true,
+    "normalizeWhitespace": false,
+    "withDomLvl1": true,
+    "xml": false,
+  },
+}
+`;
